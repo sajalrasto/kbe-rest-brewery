@@ -13,7 +13,7 @@
     <artifactId>kbe-rest-brewery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>kbe-rest-brewery</name>
-     <packaging>war</packaging>
+     <packaging>jar</packaging>
     <description>SFG REST Brewery</description>
 
     <developers>
